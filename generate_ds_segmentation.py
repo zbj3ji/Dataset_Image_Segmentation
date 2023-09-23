@@ -2,7 +2,7 @@
 File: generate_ds_segmentation.py
 Author: Jan Zbirovsky
 GitHub: https://github.com/zbj3ji/Dataset_Image_Segmentation/upload/main
-Date:   Date when the script was created or last modified
+Date:   01.09.2023
 Description: 
         Simple code to generate a simple dateset for image segmentation tasks
 
