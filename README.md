@@ -20,13 +20,13 @@ STORAGE_PATH = 'E:\\data_sets\\shapes\\'
 ```
 Here are a couple of examples of original/mask pairs:
 
-![triangle_original1](shapes/images/triangle/triangle_image_0.png) ![triangle_mask1](shapes/masks/triangle/triangle_mask_0.png)
-![triangle_original2](shapes/images/triangle/triangle_image_1.png) ![triangle_mask2](shapes/masks/triangle/triangle_mask_1.png)
+![triangle_original1](samples/triangle_image_0.png) ![triangle_mask1](samples/triangle_mask_0.png)
+![triangle_original2](samples/triangle_image_1.png) ![triangle_mask2](samples/triangle_mask_1.png)
 
-![circle_original1](shapes/images/circle/circle_image_0.png) ![circle_mask1](shapes/masks/circle/circle_mask_0.png)
-![circle_original2](shapes/images/circle/circle_image_1.png) ![circle_mask2](shapes/masks/circle/circle_mask_1.png)
+![circle_original1](samples/circle_image_0.png) ![circle_mask1](samples/circle_mask_0.png)
+![circle_original2](samples/circle_image_1.png) ![circle_mask2](samples/circle_mask_1.png)
 
-![rectangle_original1](shapes/images/rectangle/rectangle_image_0.png) ![rectangle_mask1](shapes/masks/rectangle/rectangle_mask_0.png)
-![rectangle_original2](shapes/images/rectangle/rectangle_image_1.png) ![rectangle_mask2](shapes/masks/rectangle/rectangle_mask_1.png)
+![rectangle_original1](samples/rectangle_image_0.png) ![rectangle_mask1](samples/rectangle_mask_0.png)
+![rectangle_original2](samples/rectangle_image_1.png) ![rectangle_mask2](samples/rectangle_mask_1.png)
 
 If you use this code to generate your own data, please remember to cite this source as ![Dataset_Image_Segmentation](https://github.com/zbj3ji/Dataset_Image_Segmentation). Thank you!
